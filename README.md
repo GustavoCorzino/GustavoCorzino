@@ -2,9 +2,9 @@
 
 😄 Welcome to my GitHub Profile
 
-💻Sou estudante de ciência da computação na UFJF e aqui podem ser encontrados os códigos das disciplinas e os meus prórprios iniciando no mundo da programação!
+💻Sou estudante de ciência da computação na UFJF e aqui podem ser encontrados os códigos que implementei nas disciplinas e os meus prórprios iniciando no mundo da programação!
 __________________________________________________________________________________________________________________________________________________________________
-Estou iniciando em C++ e HTML, pretendo expandir minhas habilidades para CSS e Python também.
+Possuo habilidades em C, C++, HTML, CSS, JavaScript e estou estudando Java e Python.
 
 
 <!---
